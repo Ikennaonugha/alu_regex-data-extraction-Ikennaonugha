@@ -2,7 +2,7 @@ import re
 
 def extract_and_categorize_data(text):
     """
-    Extracts and categorizes data (Emails, URLs, Phone Numbers, Credit Card Numbers)
+    Extracts and categorizes data (Emails, Phone Numbers, Credit Card Numbers)
     from a single string using regular expressions.
 
     Args:
